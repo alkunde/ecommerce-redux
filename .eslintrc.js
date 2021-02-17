@@ -25,5 +25,6 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off',
     'react/prop-types': 'warn',
     'no-unused-vars': 'warn',
+    'no-console': ['error', { allow: ['tron'] }],
   },
 };
